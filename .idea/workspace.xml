@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbc07272-dd65-4bd0-b249-dba5f88b9358" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snake.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/codebattle/client/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/codebattle/client/SnakeBattleClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/codebattle/client/api/BoardElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/codebattle/client/api/BoardPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/codebattle/client/api/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/codebattle/client/api/GameBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/codebattle/client/api/Prices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/codebattle/client/api/SnakeAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/codebattle/client/api/SnakeBattleBase.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cPHcj814jcdQyl3XReZLVZuoYp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nevdmitry.snake.Main" />
+      <module name="snake" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nevdmitry.snake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.codebattle.client.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.codebattle.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main$Rerun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.codebattle.client.Main$Rerun" />
+      <module name="snake" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.codebattle.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.codebattle.client.Main" />
+      <module name="snake" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main$Rerun" />
+      <item itemvalue="Application.Main (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main$Rerun" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbc07272-dd65-4bd0-b249-dba5f88b9358" name="Default Changelist" comment="" />
+      <created>1590423389099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590423389099</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add Dima's url">
+      <created>1590481188113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590481188113</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Dima's url" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Dima's url" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="631" y="167" width="726" height="785" key="#Main_(2)" timestamp="1591100377539">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="631" y="167" width="726" height="785" key="#Main_(2)/72.27.1848.1053@72.27.1848.1053" timestamp="1591100377539" />
+    <state x="482" y="126" width="1024" height="857" key="#Project_Structure" timestamp="1591100355427">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="482" y="126" width="1024" height="857" key="#Project_Structure/72.27.1848.1053@72.27.1848.1053" timestamp="1591100355427" />
+    <state x="458" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591091862035">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="458" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1591091862035" />
+    <state x="731" y="336" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590424193345">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="731" y="336" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1590424193345" />
+    <state x="782" y="287" width="424" height="496" key="FileChooserDialogImpl" timestamp="1591100454834">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="782" y="287" width="424" height="496" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1591100454834" />
+    <state width="1802" height="340" key="GridCell.Tab.0.bottom" timestamp="1591091913083">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="340" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1591091913083" />
+    <state width="1802" height="340" key="GridCell.Tab.0.center" timestamp="1591091913081">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="340" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1591091913081" />
+    <state width="1802" height="340" key="GridCell.Tab.0.left" timestamp="1591091913080">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="340" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1591091913080" />
+    <state width="1802" height="340" key="GridCell.Tab.0.right" timestamp="1591091913082">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="340" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1591091913082" />
+    <state width="1802" height="340" key="GridCell.Tab.1.bottom" timestamp="1591091913086">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="340" key="GridCell.Tab.1.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1591091913086" />
+    <state width="1802" height="340" key="GridCell.Tab.1.center" timestamp="1591091913084">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="340" key="GridCell.Tab.1.center/72.27.1848.1053@72.27.1848.1053" timestamp="1591091913084" />
+    <state width="1802" height="340" key="GridCell.Tab.1.left" timestamp="1591091913084">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="340" key="GridCell.Tab.1.left/72.27.1848.1053@72.27.1848.1053" timestamp="1591091913084" />
+    <state width="1802" height="340" key="GridCell.Tab.1.right" timestamp="1591091913085">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="340" key="GridCell.Tab.1.right/72.27.1848.1053@72.27.1848.1053" timestamp="1591091913085" />
+    <state x="879" y="417" width="233" height="258" key="MultipleFileMergeDialog" timestamp="1590574521007">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="879" y="417" width="233" height="258" key="MultipleFileMergeDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1590574521007" />
+    <state x="488" y="174" width="1016" height="742" key="SettingsEditor" timestamp="1591100284104">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="488" y="174" width="1016" height="742" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1591100284104" />
+    <state x="594" y="86" width="800" height="948" key="Vcs.Push.Dialog.v2" timestamp="1590481190878">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="594" y="86" width="800" height="948" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1590481190878" />
+    <state x="683" y="290" width="625" height="522" key="find.popup" timestamp="1591036428092">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="683" y="290" width="625" height="522" key="find.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1591036428092" />
+  </component>
+</project>
